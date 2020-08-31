@@ -16,7 +16,7 @@
                   This makes the framework very quick and flexible.
             </p>
                 <a class="link" href="https://docs.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms">Microsoft What is Web Forms?</a>
-            <p>Forms were the main basis for the framework before the introduction of MVC.  </p>
+            <p>Forms were the main basis for the framework before the introduction of MVC. Forms are also not suported by ASP.NET Core.</p>
 
 </body>
 </html>
