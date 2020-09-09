@@ -46,7 +46,7 @@
                 <a class="link" href="https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-3.1">Microsoft MVC overview</a> 
             </p>
         <h2 class="header" id="core">ASP.NET Core</h2>
-            <p>ASP.NET Core is the newest launch of the Framework version one was originally launched in 2016 and the lateste version Core 3.1 was released December of 2019.
+            <p>ASP.NET Core is the newest launch of the Framework version one was originally launched in 2016 and the latest version Core 3.1 was released December of 2019.
                 <a class="link" href="https://dotnet.microsoft.com/learn/aspnet/what-is-aspnet-core">What is ASP.NET Core?</a> and <a class="link" href="https://devblogs.microsoft.com/dotnet/announcing-net-core-3-1/">Announcing .NET Core 3.1</a>
                 It is an open source, cross platform Web framework that is specifically designed to reduce overhead so third party packages can be added as needed by the design team.
                 It accomplishes this by eliminating the need for some browser to server communication systems. As well it also allows for the creation of class libraries for use across .NET frameworks.
