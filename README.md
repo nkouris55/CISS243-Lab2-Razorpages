@@ -1,3 +1,2 @@
-# CISS-243
-HW and Labs for CISS 243
-Full stack ASP.NET Core 3.1 assignments
+# LAb2-Razorpages
+Lab two was to take the HTML file form lab 1 and insert it into razor pages using Visual Studio 19
